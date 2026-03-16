@@ -60,3 +60,6 @@ configs/statik/statik.go
 *.key
 
 todo.md
+
+*.pdf
+*index_*.md
